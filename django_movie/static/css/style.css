@@ -415,7 +415,6 @@ li > a:only-child:after {
     /* Firefox 19+ */
     color: #ccc;
 }
-
 .banner-form :-ms-input-placeholder {
     /* IE 10+ */
     color: #ccc;
